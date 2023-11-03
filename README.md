@@ -1,4 +1,4 @@
-#Analytic repository for the manuscript: Unraveling the Genomic and Environmental Diversity of the Ubiquitous Solirubrobacter
+# Analytic repository for the manuscript: Unraveling the Genomic and Environmental Diversity of the Ubiquitous Solirubrobacter
 
 In this repository, you'll find:
 
