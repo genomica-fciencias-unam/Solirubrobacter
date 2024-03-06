@@ -1,3 +1,6 @@
+[![DOI](https://sandbox.zenodo.org/badge/709548770.svg)](https://sandbox.zenodo.org/doi/10.5072/zenodo.33585)
+
+
 # Analytic repository for the manuscript: Unraveling the Genomic and Environmental Diversity of the Ubiquitous Solirubrobacter
 
 In this repository, you'll find:
